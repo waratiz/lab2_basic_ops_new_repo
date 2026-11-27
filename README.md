@@ -143,4 +143,6 @@ Emoji:
 
 :mask:
 
+Netipong Saiso 682115023
+
 Peerawit yawirach 682115032
